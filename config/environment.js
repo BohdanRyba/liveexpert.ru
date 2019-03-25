@@ -1,8 +1,8 @@
 'use strict';
 
-module.exports = function(environment) {
+module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'liveexpert',
+    modulePrefix: 'chat',
     environment,
     rootURL: '/',
     locationType: 'auto',
