@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   let ENV = {
-    modulePrefix: 'chat',
+    modulePrefix: 'liveexpert',
     environment,
     rootURL: '/',
     locationType: 'auto',
